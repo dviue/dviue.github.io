@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dviue.github.io/TKc/sitemap.TKc.gz
